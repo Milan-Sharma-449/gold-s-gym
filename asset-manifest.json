@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gold's-gym/static/css/main.20acbc28.css",
+    "main.js": "/gold's-gym/static/js/main.a358931d.js",
+    "static/media/banner.png": "/gold's-gym/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/gold's-gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/gold's-gym/index.html",
+    "main.20acbc28.css.map": "/gold's-gym/static/css/main.20acbc28.css.map",
+    "main.a358931d.js.map": "/gold's-gym/static/js/main.a358931d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.a358931d.js"
+  ]
+}
